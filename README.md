@@ -27,9 +27,6 @@ DLFFNet: A new dynamical local feature fusion network for automatic aortic valve
   - 通道注意力与空间注意力（CBAM）
   - 金字塔结构、局部增强等核心模块
 
-- `0001.png`  
-  模型结构图（示意图），对应 DLFFNet 中的 Fig.1。
-
 ---
 
 ## 🔧 模型结构简介
